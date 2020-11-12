@@ -3,6 +3,11 @@
     "publisher": "niem94",
     "displayName": "Git Extension Pack",
     "description": "A collection of useful extensions when working with Git and GitHub",
+    "icon": "resources/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/niem94/vscode.git-extension-pack"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.51.0"
