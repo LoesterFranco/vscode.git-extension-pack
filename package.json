@@ -1,0 +1,19 @@
+{
+    "name": "git-extension-pack",
+    "publisher": "niem94",
+    "displayName": "Git Extension Pack",
+    "description": "A collection of useful extensions when working with Git and GitHub",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "piotrpalarz.vscode-gitignore-generator",
+        "donjayamanne.githistory",
+        "github.vscode-pull-request-github",
+        "codezombiech.gitignore"
+    ]
+}
