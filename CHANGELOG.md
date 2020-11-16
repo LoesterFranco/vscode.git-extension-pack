@@ -1,5 +1,5 @@
 # Change Log
 
-## 2020-11-12 [Unreleased]
+## [0.0.4] - 2020-11-16
 
-- Initial release
+- Updated icon
