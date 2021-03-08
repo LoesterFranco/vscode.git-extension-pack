@@ -8,7 +8,7 @@
         "type": "git",
         "url": "https://github.com/niem94/vscode.git-extension-pack"
     },
-    "version": "0.0.5",
+    "version": "0.0.6",
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -17,6 +17,7 @@
     ],
     "extensionPack": [
         "piotrpalarz.vscode-gitignore-generator",
+        "gitlab.gitlab-workflow",
         "donjayamanne.githistory",
         "github.vscode-pull-request-github",
         "codezombiech.gitignore",
