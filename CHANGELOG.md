@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.0] - 2021-08-02
+
+- Added "Open in GitHub, Bitbucket, Gitlab, VisualStudio.com" extension
+
 ## [0.0.6] - 2021-03-08
 
 - Added GitLab Workflow for the GitLabbers :-) It does not have a sidebar icon so its not very intrusive, and mostly comes with basic options to allow pulling and pushing to GitLab.
