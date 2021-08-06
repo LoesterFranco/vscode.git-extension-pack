@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.1] - 2021-08-02
+
+- Added GitHub Repositories
+
 ## [1.0.0] - 2021-08-02
 
 - Added "Open in GitHub, Bitbucket, Gitlab, VisualStudio.com" extension
