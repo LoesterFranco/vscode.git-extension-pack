@@ -1,8 +1,12 @@
 # Change Log
 
+## [1.0.2] - 2021-08-27
+
+- Added "GitLens" and removed "GitHub Co-Authors"
+
 ## [1.0.1] - 2021-08-02
 
-- Added GitHub Repositories
+- Added "GitHub Repositories"
 
 ## [1.0.0] - 2021-08-02
 

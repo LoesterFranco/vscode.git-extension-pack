@@ -8,7 +8,7 @@
         "type": "git",
         "url": "https://github.com/niem94/vscode.git-extension-pack"
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -22,7 +22,7 @@
         "donjayamanne.githistory",
         "github.vscode-pull-request-github",
         "codezombiech.gitignore",
-        "drrouman.git-coauthors",
-        "github.remotehub"
+        "github.remotehub",
+        "eamodio.gitlens"
     ]
 }
