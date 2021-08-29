@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.3] - 2021-08-27
+
+- Removed "GitHub Repositories", "GitHub Pull Requests and Issues" and "GitLab Workflow". GitHub related issues have been added to my new "GitHub Extension Pack", and the GitLab extension will be migrated to a "GitLab Extension Pack" if and when more than one extensions is needed for that.
+
 ## [1.0.2] - 2021-08-27
 
 - Added "GitLens" and removed "GitHub Co-Authors"
